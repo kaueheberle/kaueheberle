@@ -43,7 +43,7 @@ Sou um desenvolvedor frontend brasileiro com foco em HTML, CSS e JavaScript. Atu
 
   </td>
   <td align="center">
-    <img src="devdesing.png" width="250" alt="Design de Programador"/>
+    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/devdesign.png" width="250" alt="Ilustração de programador"/>
   </td>
   </tr>
 </table>
