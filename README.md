@@ -28,7 +28,7 @@ Sou um desenvolvedor frontend brasileiro com foco em HTML, CSS e JavaScript. Atu
 💼 **Conecte-se comigo**
 
 <a href="https://linkedin.com/in/kaua-heberle" target="_blank">
-  <img src="devdesing.png" width="250" alt="Design de Desenvolvedor"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 
 🛠️ **Tecnologias que uso**
@@ -43,7 +43,7 @@ Sou um desenvolvedor frontend brasileiro com foco em HTML, CSS e JavaScript. Atu
 
   </td>
   <td align="center">
-    <img src="https://i.imgur.com/Q9qFt3m.png" width="250" alt="Developer illustration"/>
+    <img src="devdesing.png" width="250" alt="Design de Programador"/>
   </td>
   </tr>
 </table>
