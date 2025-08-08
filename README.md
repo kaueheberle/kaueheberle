@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
 **kaueheberle/kaueheberle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Olá, eu sou Kauã Heberle</h1>
-<h3 align="center">Desenvolvedor Frontend apaixonado por criar experiências incríveis na web</h3>
+<h1 align="center">👋 Olá, me chamo Kauã Heberle</h1>
+<h3 align="center">Estudante de Sistemas de Informação, com foco em Desenvolvimento Fullstack</h3>
 
 <table>
   <tr>
