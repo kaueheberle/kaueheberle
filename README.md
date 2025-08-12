@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       
 🎯 **Sobre mim**
 
-Sou um desenvolvedor frontend brasileiro com foco em HTML, CSS e JavaScript. Atualmente estou me aprofundando em ferramentas modernas e frameworks para construir interfaces responsivas, acessíveis e performáticas.
+Sou um desenvolvedor brasileiro com foco em me tornar Fullstack. Atualmente estou me aprofundando em ferramentas modernas e frameworks para construir interfaces responsivas, acessíveis e performáticas.
 
 💼 **Conecte-se comigo**
 
