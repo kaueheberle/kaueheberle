@@ -36,6 +36,6 @@ I'm a Brazilian full-stack developer, passionate about building complete web app
 </table>
 <table align="center">
 <td align="center">
-    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/terminal.gif" width="100%" alt="gif de terminal"/>
+    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/terminal.gif" width="75%" alt="gif de terminal"/>
 </td>
 </table>
