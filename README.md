@@ -18,11 +18,13 @@ I'm a Brazilian full-stack developer, passionate about building complete web app
 🛠️ **Tecnologias que uso**
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,javascript,html,css" />
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+</p>
 </p>
 
   </td>
@@ -30,6 +32,7 @@ I'm a Brazilian full-stack developer, passionate about building complete web app
     <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/pixelkauh.png" width="700" alt="Ilustração de programador"/>
   </td>
   </tr>
+
 </table>
 <table align="center">
 <td align="center">
