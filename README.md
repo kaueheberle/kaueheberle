@@ -1,3 +1,11 @@
+<!--
+    Hey there, I'm Kauã!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click! :))
+-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F71E&width=435&lines=Hey%2F+I'm+Kau%C3%A3%2C+i'm+into+programming+stuff.)](https://git.io/typing-svg)
 <h3 align="center">Information Systems student, focusing on Fullstack Development</h3>
 
