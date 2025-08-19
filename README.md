@@ -9,13 +9,13 @@
 
 I'm a Brazilian full-stack developer, passionate about building complete web applications—from intuitive and responsive front-end interfaces to scalable and reliable back-end systems. I'm currently in my second semester of studying Information Systems, where I've been strengthening my foundation in software engineering.
 
-💼 **Conecte-se comigo**
+💼 **Connect with me**
 
 <a href="https://linkedin.com/in/kaua-heberle" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 
-🛠️ **Tecnologias que uso**
+🛠️ **Technologies & Tools**
 
 <p>
 <p align="center">
