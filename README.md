@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey/+i'm+Kauã,+i'm+into+programming+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F71E&width=435&lines=Hey%2F+I'm+Kau%C3%A3%2C+i'm+into+programming+stuff)](https://git.io/typing-svg)
 <h3 align="center">Estudante de Sistemas de Informação, com foco em Desenvolvimento Fullstack</h3>
 
 <table>
