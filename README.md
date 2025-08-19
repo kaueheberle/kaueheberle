@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F71E&width=435&lines=Hey%2F+I'm+Kau%C3%A3%2C+i'm+into+programming+stuff.)](https://git.io/typing-svg)
-<h3 align="center">Estudante de Sistemas de Informação, com foco em Desenvolvimento Fullstack</h3>
+<h3 align="center">Information Systems student, focusing on Fullstack Development</h3>
 
 <table>
   <tr>
     <td width="60%">
       
-🎯 **Sobre mim**
+🎯 **About Me**
 
-Sou um desenvolvedor brasileiro com foco em me tornar Fullstack. Atualmente estou me aprofundando em ferramentas modernas e frameworks para construir interfaces responsivas, acessíveis e performáticas.
+I'm a Brazilian full-stack developer, passionate about building complete web applications—from intuitive and responsive front-end interfaces to scalable and reliable back-end systems. I'm currently in my second semester of studying Information Systems, where I've been strengthening my foundation in software engineering.
 
 💼 **Conecte-se comigo**
 
