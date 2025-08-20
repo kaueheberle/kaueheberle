@@ -22,9 +22,9 @@
 ---
 
 ### 💼 Connect with me
-<p align="center">
+<p align="row">
   <a href="https://linkedin.com/in/kaua-heberle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
