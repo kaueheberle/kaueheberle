@@ -38,7 +38,7 @@ I'm a Brazilian full-stack developer, passionate about building complete web app
 
   </td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/pixelkauh.png" width="700" alt="Ilustração de programador"/>
+    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/izumi.png" width="700" alt="Ilustração de programador"/>
   </td>
   </tr>
 
