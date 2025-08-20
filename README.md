@@ -26,7 +26,6 @@ I'm a Brazilian full-stack developer, passionate about building complete web app
 
 🛠️ **Technologies & Tools**
 
-<p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,javascript,html,css" />
@@ -34,18 +33,27 @@ I'm a Brazilian full-stack developer, passionate about building complete web app
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
 </p>
-</p>
 
   </td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/izumi.png" width="700" alt="Ilustração de programador"/>
+    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/izumi.png" width="700" alt="Izumi"/>
   </td>
   </tr>
+</table>
 
-</table>
-<table align="center">
-<td align="center">
-    <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/terminal.gif" width="75%" alt="gif de terminal"/>
-</td>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/terminal.gif" width="70%" alt="gif de terminal"/>
+  
+  <h3>📈 GitHub Stats</h3>
+  
+  <a href="https://github.com/kaueheberle">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaueheberle&show_icons=true&hide_border=true&theme=merko"/>
+  </a>
+  
+  <a href="https://github.com/kaueheberle">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueheberle&layout=compact&hide_border=true&theme=merko"/>
+  </a>
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff11&height=120&section=footer" alt="footer"/>
