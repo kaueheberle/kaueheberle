@@ -9,7 +9,7 @@
 
 <p float="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F71E&width=435&lines=Hey%2F+I'm+Kau%C3%A3%2C+i'm+into+programming+stuff." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F71E&width=435&lines=Hey%2F+I'm+Kau%C3%A3%2C+i'm+into+coding+stuff." alt="Typing SVG" />
   </a>
 
   <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/izumi.png" width="275" align="right" style="margin-left: 15px;">
