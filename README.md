@@ -5,7 +5,7 @@
     
     But may I please ask you to follow me in return? Just a click! :))
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff11&height=120&section=header" alt="header"/>
+<img width=100% src="requiem.png" alt="header"/>
 
 <p float="left">
   <a href="https://git.io/typing-svg">
