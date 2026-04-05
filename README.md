@@ -5,26 +5,31 @@
     
     But may I please ask you to follow me in return? Just a click! :))
 -->
-<img width=100% src="[requiem.png](https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/requiem.jpg)" alt="header"/>
 
-<p float="left">
+<img width="100%" src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/requiem.jpg" alt="header"/>
+
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F71E&width=435&lines=Hey%2F+I'm+Kau%C3%A3%2C+i'm+into+coding+stuff." alt="Typing SVG" />
   </a>
+</p>
 
-  <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/izumi.png" width="275" align="right" style="margin-left: 15px;">
-
-- 🎯 **About Me**  
-  I'm a Brazilian full-stack developer, passionate about building complete web applications—from intuitive and responsive front-end interfaces to scalable and reliable back-end systems.  
-  I'm currently in my second semester of studying Information Systems, where I've been strengthening my foundation in software engineering.
+<p align="right">
+  <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/izumi.png" width="275"/>
 </p>
 
 ---
 
+### 🎯 About Me
+I'm a Brazilian full-stack developer, passionate about building complete web applications—from intuitive and responsive front-end interfaces to scalable and reliable back-end systems.  
+I'm currently in my second semester of studying Information Systems, where I've been strengthening my foundation in software engineering.
+
+---
+
 ### 💼 Connect with me
-<p align="row">
+<p align="left">
   <a href="https://linkedin.com/in/kaua-heberle" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
@@ -37,9 +42,7 @@
   </a>
 </p>
 
-
-
-
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/terminal.gif" width="80%" alt="gif de terminal"/>
@@ -55,5 +58,6 @@
   </a>
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff11&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff11&height=120&section=footer" alt="footer"/>
