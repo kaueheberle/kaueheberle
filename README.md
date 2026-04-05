@@ -31,15 +31,3 @@ I'm currently in my second semester of studying Information Systems, where I've 
 </p>
 
 ---
-
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  
-  <a href="https://github.com/kaueheberle">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaueheberle&show_icons=true&hide_border=true&theme=merko"/>
-  </a>
-  
-  <a href="https://github.com/kaueheberle">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueheberle&layout=compact&hide_border=true&theme=merko"/>
-  </a>
-</div>
