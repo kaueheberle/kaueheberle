@@ -5,7 +5,7 @@
     
     But may I please ask you to follow me in return? Just a click! :))
 -->
-<img width=100% src="requiem.png" alt="header"/>
+<img width=100% src="[requiem.png](https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/requiem.jpg)" alt="header"/>
 
 <p float="left">
   <a href="https://git.io/typing-svg">
