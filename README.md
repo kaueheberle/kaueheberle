@@ -8,18 +8,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/requiem.jpg" alt="header"/>
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F71E&width=435&lines=Hey%2F+I'm+Kau%C3%A3%2C+i'm+into+coding+stuff." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/izumi.png" width="275"/>
-</p>
-
----
-
 ### 🎯 About Me
 I'm a Brazilian full-stack developer, passionate about building complete web applications—from intuitive and responsive front-end interfaces to scalable and reliable back-end systems.  
 I'm currently in my second semester of studying Information Systems, where I've been strengthening my foundation in software engineering.
