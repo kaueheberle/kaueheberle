@@ -26,15 +26,13 @@ I'm currently in my second semester of studying Information Systems, where I've 
 ### 🛠️ Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,javascript,html,css,nodejs,postgresql" />
+    <img src="https://skillicons.dev/icons?i=github,java,typescript,tailwind,html,supabase" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaueheberle/kaueheberle/main/terminal.gif" width="80%" alt="gif de terminal"/>
-  
   <h3>📈 GitHub Stats</h3>
   
   <a href="https://github.com/kaueheberle">
@@ -45,7 +43,3 @@ I'm currently in my second semester of studying Information Systems, where I've 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueheberle&layout=compact&hide_border=true&theme=merko"/>
   </a>
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff11&height=120&section=footer" alt="footer"/>
